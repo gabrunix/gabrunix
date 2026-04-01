@@ -28,7 +28,7 @@ class Developer:
     available  = True  # Open to remote opportunities 🌎
 
     def __str__(self):
-        return "Más de 3 años creando soluciones con código y aprendiendo en cada proyecto 💻"
+        Over 3 years creating solutions with code and learning from every project.💻"
 ```
 
 ---
@@ -134,6 +134,7 @@ class Developer:
 
 ```
 "No necesitas ser un genio, solo necesitas no rendirte." — Gabrunix
+"You don’t need to be a genius, you just need to not give up." Gabrunix
 ```
 
 </div>
