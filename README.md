@@ -1,10 +1,13 @@
+<!-- ============================================================
+     PERFIL GITHUB — Gabriel Urbaez | Full Stack Developer
+     ============================================================ -->
+
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=TUNOMBRE&fontSize=72&fontColor=c084fc&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20·%20Turning%20ideas%20into%20code&descColor=a78bfa&descSize=18&descAlignY=65&stroke=7c3aed&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Gabriel%20Urbaez&fontSize=62&fontColor=c084fc&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20·%20Turning%20ideas%20into%20code&descColor=a78bfa&descSize=18&descAlignY=65&stroke=7c3aed&strokeWidth=2)
 
 </div>
 
-<!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;🐍+Python+%7C+JS+%7C+TypeScript;🎨+React+%7C+Vue.js+%7C+Angular;⚙️+Django+%7C+FastAPI+%7C+Node.js;🚀+Building+things+that+matter)](https://git.io/typing-svg)
@@ -13,8 +16,6 @@
 
 ---
 
-<!-- ═══════════════ ABOUT ME ═══════════════ -->
-
 ```python
 class Developer:
     name       = "Gabriel Urbaez"
@@ -22,17 +23,15 @@ class Developer:
     languages  = ["Python", "JavaScript", "TypeScript", "HTML", "CSS"]
     frontend   = ["React", "Angular", "Vue.js"]
     backend    = ["Django", "FastAPI", "Node.js", "Express.js"]
-    databases  = ["PostgreSQL", "MongoDB", "MySQL", "Redis", "Oracle",]
-    tools       = tools = ["VS Code", "Git", "Postman", "Docker", "Vercel", "Netlify", "", "Supabase"]
+    databases  = ["PostgreSQL", "MongoDB", "MySQL", "Redis", "Oracle", "Supabase"]
+    tools      = ["VS Code", "Git", "Postman", "Docker", "Vercel", "Netlify"]
     available  = True  # Open to remote opportunities 🌎
 
     def __str__(self):
-        return f"“Más de 3 años creando soluciones con código y aprendiendo en cada proyecto.”→💻"
+        return "Más de 3 años creando soluciones con código y aprendiendo en cada proyecto 💻"
 ```
 
 ---
-
-
 
 ## ⚡ Tech Stack
 
@@ -58,63 +57,64 @@ class Developer:
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-**🗄️ Bases de Datos & DevOps**
+**🗄️ Bases de Datos**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**🛠️ Herramientas & DevOps**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
 ---
-
-<!-- ═══════════════ GITHUB STATS ═══════════════ -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tunombredeusuario&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&icon_color=7c3aed&text_color=e2e8f0&ring_color=7c3aed" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tunombredeusuario&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7&sideLabels=e2e8f0&dates=6b7280" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gabrunix&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&icon_color=7c3aed&text_color=e2e8f0&ring_color=7c3aed" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrunix&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7&sideLabels=e2e8f0&dates=6b7280" />
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunombredeusuario&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=e2e8f0" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrunix&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=e2e8f0" />
 
 </div>
 
 ---
-
-<!-- ═══════════════ ACTIVITY GRAPH ═══════════════ -->
 
 ## 📈 Actividad
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tunombredeusuario&theme=tokyo-night&bg_color=0d0d1a&color=a855f7&line=7c3aed&point=c084fc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrunix&theme=tokyo-night&bg_color=0d0d1a&color=a855f7&line=7c3aed&point=c084fc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
-
-<!-- ═══════════════ PROYECTOS ═══════════════ -->
 
 ## 🚀 Proyectos Destacados
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=tunombredeusuario&repo=nombre-repo-1&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=e2e8f0&icon_color=7c3aed)](https://github.com/tunombredeusuario/nombre-repo-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=tunombredeusuario&repo=nombre-repo-2&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=e2e8f0&icon_color=7c3aed)](https://github.com/tunombredeusuario/nombre-repo-2)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=gabrunix&repo=nombre-repo-1&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=e2e8f0&icon_color=7c3aed)](https://github.com/gabrunix/nombre-repo-1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=gabrunix&repo=nombre-repo-2&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=e2e8f0&icon_color=7c3aed)](https://github.com/gabrunix/nombre-repo-2)
 
 </div>
 
 ---
-
-<!-- ═══════════════ CONTACTO ═══════════════ -->
 
 ## 📬 Conecta conmigo
 
@@ -122,20 +122,18 @@ class Developer:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrunix/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://gabrunix.netlify.app)
-[![Emaill](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](gabrunixx@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrunixx@gmail.com)
 
 </div>
 
 ---
 
-<!-- ═══════════════ FOOTER ═══════════════ -->
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=tunombredeusuario&color=7c3aed&style=for-the-badge&label=VISITAS)
+![Profile Views](https://komarev.com/ghpvc/?username=gabrunix&color=7c3aed&style=for-the-badge&label=VISITAS)
 
 ```
-  ""No necesitas ser un genio, solo necesitas no rendirte."." — Gabrunix
+"No necesitas ser un genio, solo necesitas no rendirte." — Gabrunix
 ```
 
 </div>
