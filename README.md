@@ -4,13 +4,13 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=gabrunix%20code&fontSize=62&fontColor=c084fc&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%C2%B7%20Turning%20ideas%20into%20code&descColor=a78bfa&descSize=18&descAlignY=65&stroke=7c3aed&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:04030c,40:071a2e,100:04030c&height=280&section=header&text=FULL%20STACK%20DEVELOPER%20%C2%B7%20REMOTE%20READY&fontSize=22&fontColor=38bdf8&animation=fadeIn&fontAlignY=30&desc=%7E%2Fdev%20%24%20%20%3E%20gabrunix%20code&descColor=7dd3fc&descSize=28&descAlignY=52&stroke=0ea5e9&strokeWidth=0)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;🐍+Python+%7C+JS+%7C+TypeScript;🎨+React+%7C+Vue.js+%7C+Angular;⚙️+Django+%7C+FastAPI+%7C+Node.js;🚀+Building+things+that+matter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&pause=1800&color=7DD3FC&center=true&vCenter=true&width=650&lines=%3E+init+gabrunix;Developer+ready+%E2%9C%94;%3E+skills;Full+Stack+%7C+Problem+Solver;%3E+mindset;Fast+learner+%F0%9F%92%A1;%3E+mission;I+build.+I+solve.+I+deliver.;%3E+status;Available+for+hire+%F0%9F%92%BC;%3E+contact;Let%27s+work+together+%F0%9F%93%A9)](https://git.io/typing-svg)
 
 </div>
 
@@ -113,7 +113,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=gabrunix&color=7c3aed&style=for-the-badge&label=VISITAS)
+![Profile Views](https://komarev.com/ghpvc/?username=gabrunix&color=0c4a6e&style=for-the-badge&label=VISITAS)
 
 ```
 "No necesitas ser un genio, solo necesitas no rendirte." — Gabrunix
@@ -122,4 +122,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=rect&color=0:04030c,50:071a2e,100:04030c&height=80&section=footer&text=%7B%20always%20building%20%7D&fontSize=14&fontColor=38bdf820&animation=fadeIn&fontAlignY=55&desc=gabrunix%20code&descColor=38bdf830&descSize=11&descAlignY=80)
