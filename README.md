@@ -1,31 +1,18 @@
+<!-- ============================================================
+     PERFIL GITHUB — Gabrunix Code | Full Stack Developer
+     ============================================================ -->
+
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:04030c,40:082f49,100:0c4a6e&height=200&section=header&text=~/dev%20$%20gabrunix&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20·%20Remote%20Ready&descColor=7dd3fc&descSize=16&descAlignY=68)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=gabrunix%20code&fontSize=62&fontColor=c084fc&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%C2%B7%20Turning%20ideas%20into%20code&descColor=a78bfa&descSize=18&descAlignY=65&stroke=7c3aed&strokeWidth=2)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&pause=1800&color=38BDF8&center=true&vCenter=true&width=600&lines=%3E+init+gabrunix;Developer+ready+%E2%9C%94;%3E+skills;Full+Stack+%7C+Problem+Solver;%3E+mindset;Fast+learner+%F0%9F%92%A1;%3E+mission;I+build.+I+solve.+I+deliver.;%3E+status;Available+for+hire+%F0%9F%92%BC;%3E+contact;Let%27s+work+together+%F0%9F%93%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;🐍+Python+%7C+JS+%7C+TypeScript;🎨+React+%7C+Vue.js+%7C+Angular;⚙️+Django+%7C+FastAPI+%7C+Node.js;🚀+Building+things+that+matter)](https://git.io/typing-svg)
 
 </div>
-
----
-
-```python
-class Developer:
-    name       = "Gabriel Urbaez"
-    role       = "Full Stack Developer"
-    languages  = ["Python", "JavaScript", "TypeScript", "HTML", "CSS"]
-    frontend   = ["React", "Angular", "Vue.js"]
-    backend    = ["Django", "FastAPI", "Node.js", "Express.js"]
-    databases  = ["PostgreSQL", "MongoDB", "MySQL", "Redis", "Oracle", "Supabase"]
-    tools      = ["VS Code", "Git", "Postman", "Docker", "Vercel", "Netlify"]
-    available  = True  # Open to remote opportunities 🌎
-
-    def __str__(self):
-        return "Over 3 years creating solutions with code and learning from every project. 💻"
-```
 
 ---
 
@@ -126,7 +113,7 @@ class Developer:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=gabrunix&color=0c4a6e&style=for-the-badge&label=VISITAS)
+![Profile Views](https://komarev.com/ghpvc/?username=gabrunix&color=7c3aed&style=for-the-badge&label=VISITAS)
 
 ```
 "No necesitas ser un genio, solo necesitas no rendirte." — Gabrunix
@@ -135,4 +122,4 @@ class Developer:
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0c4a6e,60:082f49,100:04030c&height=150&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&animation=fadeIn)
