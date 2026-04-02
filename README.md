@@ -18,7 +18,7 @@
 
 ```python
 class Developer:
-    name       = "Gabrunix Code"
+    name       = "Gabriel Urbaez"
     role       = "Full Stack Developer"
     languages  = ["Python", "JavaScript", "TypeScript", "HTML", "CSS"]
     frontend   = ["React", "Angular", "Vue.js"]
