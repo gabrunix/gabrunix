@@ -4,13 +4,13 @@
 
 <div align="center">
 
-<img width="100%" alt="Gabrunix Banner" src="https://github.com/user-attachments/assets/f50e73c4-e858-435c-9169-c55f313ca712" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&pause=1800&color=7DD3FC&center=true&vCenter=true&width=650&lines=%3E+init+gabrunix;Developer+ready+%E2%9C%94;%3E+skills;Full+Stack+%7C+Problem+Solver;%3E+mindset;Fast+learner+%F0%9F%92%A1;%3E+mission;I+build.+I+solve.+I+deliver.;%3E+status;Available+for+hire+%F0%9F%92%BC;%3E+contact;Let%27s+work+together+%F0%9F%93%A9)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&pause=1800&color=7DD3FC&center=true&vCenter=true&width=650&lines=%3E+init+gabrunix;Developer+ready+%E2%9C%94;%3E+skills;Full+Stack+%7C+Problem+Solver;%3E+mindset;Fast+learner+%F0%9F%92%A1;%3E+mission;I+build.+I+solve.+I+deliver.;%3E+status;Available+for+hire+%F0%9F%92%BC;%3E+contact;Let%27s+work+together+%F0%9F%93%A9)](https://git.io/typing-svg)
+<img width="100%" alt="Gabrunix Banner" src="https://github.com/user-attachments/assets/f50e73c4-e858-435c-9169-c55f313ca712" />
 
 </div>
 
