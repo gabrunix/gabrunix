@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img width="100%" alt="Gabrunix Banner" src="https://github.com/user-attachments/assets/f50e73c4-e858-435c-9169-c55f313ca712" />
+<img width="100%" alt="Gabrunix Banner" src="https://github.com/user-attachments/assets/5b2e1318-8ab3-4a87-b3da-4c894ef9558c" /> 
 
 </div>
 
