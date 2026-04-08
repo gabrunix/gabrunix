@@ -10,9 +10,23 @@
 
 <div align="center">
 
-<img width="100%" alt="Gabrunix Banner" src="https://github.com/user-attachments/assets/5b2e1318-8ab3-4a87-b3da-4c894ef9558c" /> 
+<img width="100%" alt="Gabrunix Banner" src="https://github.com/user-attachments/assets/5b2e1318-8ab3-4a87-b3da-4c894ef9558c" />
 
 </div>
+
+---
+
+## 🧠 Philosophy & Approach
+
+```python
+async def solve(problem: AnyChallenge) -> Solution:
+    approach  = "understand first, code second"
+    output    = build(clean=True, scalable=True)
+    return output  # always ships
+```
+
+> Full Stack Developer with **3+ years** of experience designing and shipping production-ready applications.
+> Focused on clean architecture, performance, and delivering real business value — not just code.
 
 ---
 
@@ -30,8 +44,8 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **⚙️ Backend**
 
@@ -40,16 +54,17 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-**🗄️ Bases de Datos**
+**🗄️ Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**🛠️ Herramientas & DevOps**
+**🛠️ Tools & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -58,6 +73,47 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 Skill Proficiency
+
+> Skills measured by real project experience and consistent daily use.
+
+**Core Languages**
+
+```
+Python        ████████████████████░░   Advanced   ★★★★★
+JavaScript    ████████████████████░░   Advanced   ★★★★★
+TypeScript    ████████████████░░░░░░   Upper-Mid  ★★★★☆
+HTML / CSS    ████████████████████░░   Advanced   ★★★★★
+```
+
+**Frontend**
+
+```
+React         ███████████████████░░░   Advanced   ★★★★★
+Tailwind CSS  ████████████████████░░   Advanced   ★★★★★
+Angular       █████████████░░░░░░░░░   Mid-Level  ★★★☆☆
+```
+
+**Backend**
+
+```
+Django        ████████████████████░░   Advanced   ★★★★★
+FastAPI       ███████████████████░░░   Advanced   ★★★★★
+Node.js       ████████████████░░░░░░   Upper-Mid  ★★★★☆
+Express.js    ██████████████░░░░░░░░   Mid-Level  ★★★☆☆
+```
+
+**Databases & DevOps**
+
+```
+PostgreSQL    ████████████████████░░   Advanced   ★★★★★
+Firebase      ███████████████████░░░   Advanced   ★★★★★
+MongoDB       █████████████████░░░░░   Upper-Mid  ★★★★☆
+Docker        ████████████████░░░░░░   Mid-Level  ★★★☆☆
+```
 
 ---
 
@@ -78,7 +134,7 @@
 
 ---
 
-## 📈 Actividad
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -88,7 +144,7 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -99,7 +155,7 @@
 
 ---
 
-## 📬 Conecta conmigo
+## 📬 Let's Connect
 
 <div align="center">
 
@@ -113,10 +169,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=gabrunix&color=0c4a6e&style=for-the-badge&label=VISITAS)
+![Profile Views](https://komarev.com/ghpvc/?username=gabrunix&color=0c4a6e&style=for-the-badge&label=PROFILE+VIEWS)
 
 ```
-"No necesitas ser un genio, solo necesitas no rendirte." — Gabrunix
 "You don't need to be a genius, you just need to not give up." — Gabrunix
 ```
 
