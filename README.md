@@ -1,10 +1,6 @@
-<!-- ============================================================
-     PERFIL GITHUB — Gabrunix | Full Stack Developer
-     ============================================================ -->
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=18&pause=1800&color=7DD3FC&center=true&vCenter=true&width=650&lines=%3E+init+gabrunix;Developer+ready+%E2%9C%94;%3E+stack;Full+Stack+%7C+Python+%7C+JavaScript;%3E+mindset;Understand+first%2C+code+second;%3E+mission;I+build.+I+solve.+I+deliver.;%3E+status;Available+for+hire+%F0%9F%92%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=18&pause=1800&color=7DD3FC&center=true&vCenter=true&width=650&lines=%3E+init+gabrunix;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;%3E+whoami;I+am+Gabrunix%2C+Full+Stack+Developer;%3E+stack;Python+%7C+JavaScript+%7C+TypeScript;%3E+mindset;Understand+first%2C+code+second;%3E+mission;I+build.+I+solve.+I+deliver.;%3E+status;Available+for+hire+%F0%9F%92%BC;%3E+contact;Let%27s+work+together+%F0%9F%93%A9)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,20 +14,9 @@
 
 ## 🧠 About Me
 
-```python
-async def solve(problem: AnyChallenge) -> Solution:
-    approach  = "understand first, code second"
-    output    = build(clean=True, scalable=True, tested=True)
-    return output  # always ships
-```
-
-<br/>
-
-Full Stack Developer with **3+ years** building production-ready applications from scratch.  
-I work across the entire stack — from pixel-perfect UIs to robust APIs and database architecture.  
-My focus: **clean code, scalable systems, and real business value.**
-
-<br/>
+**Welcome to my GitHub profile! I'm Gabrunix** — a Full Stack Developer passionate about building scalable, real-world solutions. 
+I combine strong backend logic with clean, modern frontends to ship products that work and last. 
+Always learning, always building — one commit at a time.
 
 ---
 
@@ -64,12 +49,10 @@ My focus: **clean code, scalable systems, and real business value.**
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🛠️ Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -89,12 +72,12 @@ My focus: **clean code, scalable systems, and real business value.**
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gabrunix&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&icon_color=7c3aed&text_color=e2e8f0&ring_color=7c3aed" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrunix&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7&sideLabels=e2e8f0&dates=6b7280" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gabrunix&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&ring_color=3fb950" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrunix&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=c9d1d9&dates=6b7280" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrunix&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=e2e8f0" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrunix&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" />
 </div>
 
 ---
@@ -103,7 +86,7 @@ My focus: **clean code, scalable systems, and real business value.**
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrunix&theme=tokyo-night&bg_color=0d0d1a&color=a855f7&line=7c3aed&point=c084fc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrunix&theme=github-compact&bg_color=0d1117&color=3fb950&line=3fb950&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -113,14 +96,14 @@ My focus: **clean code, scalable systems, and real business value.**
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=gabrunix&repo=nombre-repo-1&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=e2e8f0&icon_color=7c3aed)](https://github.com/gabrunix/nombre-repo-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=gabrunix&repo=nombre-repo-2&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=e2e8f0&icon_color=7c3aed)](https://github.com/gabrunix/nombre-repo-2)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=gabrunix&repo=nombre-repo-1&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950)](https://github.com/gabrunix/nombre-repo-1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=gabrunix&repo=nombre-repo-2&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950)](https://github.com/gabrunix/nombre-repo-2)
 
 </div>
 
 ---
 
-## 📬 Let's Connect
+## 📬 Conecta conmigo
 
 <div align="center">
 
@@ -134,12 +117,10 @@ My focus: **clean code, scalable systems, and real business value.**
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=gabrunix&color=0c4a6e&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=gabrunix&color=0c4a6e&style=for-the-badge&label=VISITAS)
 
-```
+<br/>
+
+```text
+"No necesitas ser un genio, solo necesitas no rendirte." — Gabrunix
 "You don't need to be a genius, you just need to not give up." — Gabrunix
-```
-
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=rect&color=0:04030c,50:071a2e,100:04030c&height=80&section=footer&text=%7B%20always%20building%20%7D&fontSize=14&fontColor=38bdf820&animation=fadeIn&fontAlignY=55&desc=gabrunix%20code&descColor=38bdf830&descSize=11&descAlignY=80)
