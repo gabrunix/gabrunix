@@ -1,103 +1,99 @@
+<!-- ============================================================
+     PERFIL GITHUB — Gabrunix Code | Full Stack Developer
+     ============================================================ -->
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=18&pause=1800&color=7DD3FC&center=true&vCenter=true&width=650&lines=%3E+init+gabrunix;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;%3E+whoami;I+am+Gabrunix%2C+Full+Stack+Developer;%3E+stack;Python+%7C+JavaScript+%7C+TypeScript;%3E+mindset;Understand+first%2C+code+second;%3E+mission;I+build.+I+solve.+I+deliver.;%3E+status;Available+for+hire+%F0%9F%92%BC;%3E+contact;Let%27s+work+together+%F0%9F%93%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&pause=1800&color=7DD3FC&center=true&vCenter=true&width=650&lines=%3E+init+gabrunix;Developer+ready+%E2%9C%94;%3E+skills;Full+Stack+%7C+Problem+Solver;%3E+mindset;Fast+learner+%F0%9F%92%A1;%3E+mission;I+build.+I+solve.+I+deliver.;%3E+status;Available+for+hire+%F0%9F%92%BC;%3E+contact;Let%27s+work+together+%F0%9F%93%A9)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
-<img width="100%" alt="Gabrunix Banner" src="https://github.com/user-attachments/assets/5b2e1318-8ab3-4a87-b3da-4c894ef9558c" />
+
+<img width="100%" alt="Gabrunix Banner" src="https://github.com/user-attachments/assets/5b2e1318-8ab3-4a87-b3da-4c894ef9558c" /> 
+
 </div>
-
-<br/>
-
----
-
-## 🧠 About Me
-
-**Welcome to my GitHub profile! I'm Gabrunix** — a Full Stack Developer passionate about building scalable, real-world solutions. 
-I combine strong backend logic with clean, modern frontends to ship products that work and last. 
-Always learning, always building — one commit at a time.
 
 ---
 
 ## ⚡ Tech Stack
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+**🐍 Languages**
 
-### 🐍 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**🎨 Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend
+**⚙️ Backend**
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-    </td>
-    <td valign="top" width="50%">
+**🗄️ Bases de Datos**
 
-### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🛠️ Tools & DevOps
+**🛠️ Herramientas & DevOps**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-    </td>
-  </tr>
-</table>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gabrunix&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&ring_color=3fb950" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrunix&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=c9d1d9&dates=6b7280" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gabrunix&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&icon_color=7c3aed&text_color=e2e8f0&ring_color=7c3aed" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrunix&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7&sideLabels=e2e8f0&dates=6b7280" />
+
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrunix&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" />
-</div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrunix&theme=github-compact&bg_color=0d1117&color=3fb950&line=3fb950&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrunix&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=e2e8f0" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 📈 Actividad
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=gabrunix&repo=nombre-repo-1&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950)](https://github.com/gabrunix/nombre-repo-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=gabrunix&repo=nombre-repo-2&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950)](https://github.com/gabrunix/nombre-repo-2)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrunix&theme=tokyo-night&bg_color=0d0d1a&color=a855f7&line=7c3aed&point=c084fc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🚀 Proyectos Destacados
+
+<div align="center">
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=gabrunix&repo=nombre-repo-1&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=e2e8f0&icon_color=7c3aed)](https://github.com/gabrunix/nombre-repo-1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=gabrunix&repo=nombre-repo-2&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=e2e8f0&icon_color=7c3aed)](https://github.com/gabrunix/nombre-repo-2)
 
 </div>
 
@@ -119,8 +115,11 @@ Always learning, always building — one commit at a time.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gabrunix&color=0c4a6e&style=for-the-badge&label=VISITAS)
 
-<br/>
-
-```text
+```
 "No necesitas ser un genio, solo necesitas no rendirte." — Gabrunix
 "You don't need to be a genius, you just need to not give up." — Gabrunix
+```
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=rect&color=0:04030c,50:071a2e,100:04030c&height=80&section=footer&text=%7B%20always%20building%20%7D&fontSize=14&fontColor=38bdf820&animation=fadeIn&fontAlignY=55&desc=gabrunix%20code&descColor=38bdf830&descSize=11&descAlignY=80)
