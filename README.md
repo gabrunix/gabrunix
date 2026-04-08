@@ -18,9 +18,17 @@
 
 ## 🧠 About Me
 
-**Welcome to my GitHub profile! I'm Gabrunix** — a Full Stack Developer passionate about building scalable, real-world solutions.
-I combine strong backend logic with clean, modern frontends to ship products that work and last.
-Always learning, always building — one commit at a time.
+## 🧠 About Me
+
+**Hi! I'm Gabrunix.** —technology has been my language since childhood. With a decade of experience in systems and three years of coding, I've learned that the best developer isn't the one who knows the most, but the one who never stops asking questions and learning.
+
+* **IT Specialist:** I have over **10 years of experience** in the technology sector, which has given me a solid foundation in infrastructure and complex problem-solving.
+
+* **Full Stack Developer:** For the past **3 years**, I've immersed myself in programming, turning that childhood passion into my profession.
+
+* **My Mindset:** I don't pretend to know everything, but I have the **ability to learn quickly** and the willingness to face any technical challenge with humility and discipline.
+
+Beyond writing code, I strive to create solutions that provide real value, continuously learning and practicing to further strengthen my knowledge. Always ready for the next challenge!
 
 ---
 
