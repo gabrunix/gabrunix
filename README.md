@@ -18,8 +18,6 @@
 
 ## 🧠 About Me
 
-## 🧠 About Me
-
 **Hi! I'm Gabrunix.** —technology has been my language since childhood. With a decade of experience in systems and three years of coding, I've learned that the best developer isn't the one who knows the most, but the one who never stops asking questions and learning.
 
 * **IT Specialist:** I have over **10 years of experience** in the technology sector, which has given me a solid foundation in infrastructure and complex problem-solving.
