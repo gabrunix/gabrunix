@@ -22,8 +22,7 @@
 
 * **IT Specialist:** I have over **10 years of experience** in the technology sector, which has given me a solid foundation in infrastructure and complex problem-solving.
 
-* **Full Stack Developer:** For the past **3 years**, I've immersed myself in programming, turning that childhood passion into my profession.
-
+* **Full Stack Developer: For the past 3 years, I've immersed myself in programming, turning that childhood passion into my profession. I specialize in building complete solutions: from intuitive interfaces (UX/UI + frontend) to business logic, APIs, and databases on the backend.
 * **My Mindset:** I don't pretend to know everything, but I have the **ability to learn quickly** and the willingness to face any technical challenge with humility and discipline.
 
 Beyond writing code, I strive to create solutions that provide real value, continuously learning and practicing to further strengthen my knowledge. Always ready for the next challenge!
