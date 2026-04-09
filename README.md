@@ -1,3 +1,7 @@
+<!-- ============================================================
+     PERFIL GITHUB — Gabrunix | Full Stack Developer
+     ============================================================ -->
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=18&pause=1800&color=7DD3FC&center=true&vCenter=true&width=650&lines=%3E+init+gabrunix;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;%3E+whoami;I+am+Gabrunix%2C+Full+Stack+Developer;%3E+stack;Python+%7C+JavaScript+%7C+TypeScript;%3E+mindset;Understand+first%2C+code+second;%3E+mission;I+build.+I+solve.+I+deliver.;%3E+status;Available+for+hire+%F0%9F%92%BC;%3E+contact;Let%27s+work+together+%F0%9F%93%A9)](https://git.io/typing-svg)
@@ -17,7 +21,8 @@
 **Hi! I'm Gabrunix.** —technology has been my language since childhood. With a decade of experience in systems and three years of coding, I've learned that the best developer isn't the one who knows the most, but the one who never stops asking questions and learning.
 
 * **IT Specialist:** I have over **10 years of experience** in the technology sector, which has given me a solid foundation in infrastructure and complex problem-solving.
-* **Full Stack Developer:** For the past 3 years, I've immersed myself in programming, turning that childhood passion into my profession. I specialize in building complete solutions: from intuitive interfaces (UX/UI + frontend) to business logic, APIs, and databases on the backend.
+
+* **Full Stack Developer: For the past 3 years, I've immersed myself in programming, turning that childhood passion into my profession. I specialize in building complete solutions: from intuitive interfaces (UX/UI + frontend) to business logic, APIs, and databases on the backend.
 * **My Mindset:** I don't pretend to know everything, but I have the **ability to learn quickly** and the willingness to face any technical challenge with humility and discipline.
 
 Beyond writing code, I strive to create solutions that provide real value, continuously learning and practicing to further strengthen my knowledge. Always ready for the next challenge!
@@ -73,35 +78,28 @@ Beyond writing code, I strive to create solutions that provide real value, conti
 
 ---
 
-## 📊 Developer Metrics
+## 📊 GitHub Stats
+
+<br>
+
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrunix&theme=dracula&no-frame=true&column=4&margin-w=15&margin-h=15" alt="github trophies" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrunix&theme=github_dark" width="100%" />
+
 </div>
 
-<br/>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=gabrunix&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&ring_color=3fb950" />
-      </td>
-      <td width="50%" align="center">
-        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrunix&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrunix&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=c9d1d9&dates=6b7280" />
-      </td>
-    </tr>
-  </table>
-</div>
+<br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrunix&theme=github_dark" alt="GitHub Radar Chart" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrunix&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrunix&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrunix&theme=github_dark" width="32%" />
+
 </div>
+
+<br>
 
 ---
 
@@ -113,18 +111,6 @@ Beyond writing code, I strive to create solutions that provide real value, conti
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=gabrunix&repo=nombre-repo-1&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950)](https://github.com/gabrunix/nombre-repo-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=gabrunix&repo=nombre-repo-2&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950)](https://github.com/gabrunix/nombre-repo-2)
-
-</div>
-
----
 
 ## 📬 Conecta conmigo
 
@@ -136,11 +122,6 @@ Beyond writing code, I strive to create solutions that provide real value, conti
 
 </div>
 
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=gabrunix&color=0c4a6e&style=for-the-badge&label=VISITAS)
 
 ```
 "No necesitas ser un genio, solo necesitas no rendirte." — Gabrunix
