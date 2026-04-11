@@ -124,6 +124,8 @@ Beyond writing code, I strive to create solutions that provide real value, conti
 
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=gabrunix&color=0c4a6e&style=for-the-badge&label=VISITAS)
+
 ```
 "No necesitas ser un genio, solo necesitas no rendirte." — Gabrunix
 "You don't need to be a genius, you just need to not give up." — Gabrunix
