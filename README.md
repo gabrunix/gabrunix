@@ -122,6 +122,7 @@ Beyond writing code, I strive to create solutions that provide real value, conti
 
 </div>
 
+<div align="center">
 
 ```
 "No necesitas ser un genio, solo necesitas no rendirte." — Gabrunix
