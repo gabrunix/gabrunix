@@ -18,24 +18,22 @@
 
 ## 🧠 About Me
 
-**Hi! I'm Gabrunix.** —technology has been my language since childhood. With a decade of experience in systems and three years of coding, I've learned that the best developer isn't the one who knows the most, but the one who never stops asking questions and learning.
+Hi! I'm Gabrunix — technology has been my language since childhood.  
+With 10+ years in IT and 3+ years coding, I build real-world solutions end-to-end.
 
-* **IT Specialist:** I have over **10 years of experience** in the technology sector, which has given me a solid foundation in infrastructure and complex problem-solving.
-
-* **Full Stack Developer: For the past 3 years, I've immersed myself in programming, turning that childhood passion into my profession. I specialize in building complete solutions: from intuitive interfaces (UX/UI + frontend) to business logic, APIs, and databases on the backend.
-* **My Mindset:** I don't pretend to know everything, but I have the **ability to learn quickly** and the willingness to face any technical challenge with humility and discipline.
-
-Beyond writing code, I strive to create solutions that provide real value, continuously learning and practicing to further strengthen my knowledge. Always ready for the next challenge!
+- 🧱 Full Stack Developer  
+- 🗝️ Problem solver  
+- 📚 Always learning
 
 ---
 
-## ⚡ Tech Stack
+## 💠 Tech Stack
 
 <table>
   <tr>
     <td valign="top" width="50%">
 
-### 🐍 Languages
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -80,8 +78,6 @@ Beyond writing code, I strive to create solutions that provide real value, conti
 
 ## 📊 GitHub Stats
 
-<br>
-
 
 <div align="center">
 
@@ -96,8 +92,9 @@ Beyond writing code, I strive to create solutions that provide real value, conti
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrunix&theme=github_dark" width="32%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrunix&theme=github_dark" width="32%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrunix&theme=github_dark" width="32%" />
-
 </div>
+
+---
 
 <br>
 
