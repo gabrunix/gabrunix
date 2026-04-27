@@ -24,6 +24,7 @@ With 10+ years in IT and 3+ years coding, I build real-world solutions end-to-en
 - 🧱 Full Stack Developer  
 - 🗝️ Problem solver  
 - 📚 Always learning
+- 🤝 I’m available for freelancing.
 
 ---
 
@@ -89,8 +90,7 @@ With 10+ years in IT and 3+ years coding, I build real-world solutions end-to-en
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrunix&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrunix&theme=github_dark" width="32%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrunix&layout=donut&theme=dark&hide_border=true" width="350px" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrunix&theme=github_dark" width="32%" />
 </div>
 
