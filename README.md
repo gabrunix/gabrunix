@@ -9,8 +9,7 @@
 </div>
 
 <div align="center">
-<img width="50%" alt="Gabrunix Banner" src="https://github.com/user-attachments/assets/2ec6d86a-72d8-42d0-a215-6c34be1880e5" />
-</div>
+<img width="30%" alt="Gabrunix Banner"  src="https://github.com/user-attachments/assets/ed5a8368-1069-461e-a4ea-80164272ad2d" />
 
 <br/>
 
